@@ -1,0 +1,9 @@
+.navbar-brand {
+  color: white !important;
+}
+.navbar-default {
+  background-color: black;
+}
+.nav.navbar-nav li a {
+  color: white;
+}
