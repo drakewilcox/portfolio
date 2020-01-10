@@ -1,13 +1,16 @@
+.btn {
+  background-color: black;
+  color: white;
+}
 body {
   font-family: 'courier prime';
 }
-
 .jumbotron {
   color: black;
-  background-color: white;
+  background-color: linen;
 }
 body {
-  background-color: white;
+  background-color: linen;
   color: white;
 }
 .navbar-brand {
