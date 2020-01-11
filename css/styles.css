@@ -22,9 +22,7 @@ body {
 .nav.navbar-nav li a {
   color: white;
 }
- img {
-   width: 100%;
- }
+
 .special {
   color: black;
 }
@@ -46,4 +44,13 @@ body {
 .about-text {
   font-size: 25px;
   color: black;
+}
+img {
+  width: 100%;
+}
+.experience {
+  color: black;
+}
+.row-1 {
+  margin: 30px;
 }
