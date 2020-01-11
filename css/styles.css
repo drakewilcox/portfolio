@@ -28,3 +28,22 @@ body {
 .special {
   color: black;
 }
+.project-head {
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+.about {
+  margin-top: 75px;
+}
+
+.about-img {
+  width: 41%;
+  float: left;
+  margin-right: 30px;
+}
+.about-text {
+  font-size: 25px;
+  color: black;
+}
