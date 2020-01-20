@@ -11,17 +11,18 @@ _This is a Portfolio page meant to showcase my work during my time at Epicodus s
 ## Setup/Installation Requirements
 
 * _All content is contained in GitHub folder_
-* _Page can be used by following the GitHub Pages link_
+* _Page can be viewed through the following GitHub Pages link:_
+* _https://drakewilcox.github.io/portfolio_
+
 
 ## Known Bugs
 
-_{No known bugs at this time}_
+_No known bugs at this time_
 
 ## Support and contact details
 
 * _Drake Wilcox_
 * _drakewilcox@gmail.com_
-* _Site can be viewed at the following link: drakewilcox.github.io/portfolio
 
 ## Technologies Used
 
